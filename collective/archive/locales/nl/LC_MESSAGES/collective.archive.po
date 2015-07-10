@@ -1,0 +1,1433 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: collective.archive\n"
+"POT-Creation-Date: 2015-04-09 15:28+0000\n"
+"PO-Revision-Date: 2015-04-10 15:29+0000’\n"
+"Last-Translator: INTK <info@intk.com>\n"
+"Language-Team: Dutch <info@intk.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: nl\n"
+"Language-Name: Dutch\n"
+"Preferred-Encodings: utf-8\n"
+"Domain: collective.archive\n"
+
+#: ../profiles/default/types/Object.xml:7
+msgid "Object"
+msgstr "Objecten"
+
+#: ../profiles/default/types/Object.xml:8
+msgid "Information about an object typically collected by museums"
+msgstr "Informatie over een object meestal verzameld door musea"
+
+#: ../archive.py
+msgid "Body"
+msgstr "Tekst"
+
+#: ../archive.py
+msgid "Description"
+msgstr "Beschrijving"
+
+#: ../archive.py
+msgid "Identification"
+msgstr "Identificatie"
+
+#: ../archive.py
+msgid "Institution name"
+msgstr "Instellingnaam"
+
+#: ../archive.py
+msgid "Administrative name"
+msgstr "Afdeling"
+
+#: ../archive.py
+msgid "Collection"
+msgstr "Collectie"
+
+#: ../archive.py
+msgid "Object number"
+msgstr "Objectnummer"
+
+#: ../archive.py
+msgid "Rec. type"
+msgstr "Rec. type"
+
+#: ../archive.py
+msgid "Part"
+msgstr "Onderdeel"
+
+#: ../archive.py
+msgid "Tot. Number"
+msgstr "Aantal"
+
+#: ../archive.py
+msgid "Copy number"
+msgstr "Serienummer"
+
+#: ../archive.py
+msgid "Edition"
+msgstr "Oplage"
+
+#: ../archive.py
+msgid "Distinguish features"
+msgstr "Ondersch. kenmerken"
+
+#: ../archive.py
+msgid "Object Category"
+msgstr "Objectcategorie"
+
+#: ../archive.py
+msgid "Object name"
+msgstr "Objectnaam"
+
+#: ../archive.py
+msgid "Other name"
+msgstr "Ander benaming"
+
+#: ../archive.py
+msgid "Physical Characteristics"
+msgstr "Fysieke kenmerken"
+
+#: ../archive.py
+msgid "Physical Description"
+msgstr "Fysieke beschrijving"
+
+#: ../archive.py
+msgid "Keywords"
+msgstr "Trefwoorden"
+
+#: ../archive.py
+msgid "Part"
+msgstr "Onderdeel"
+
+#: ../archive.py
+msgid "Aspect"
+msgstr "Aspect"
+
+#: ../archive.py
+msgid "Keyword"
+msgstr "Trefwoord"
+
+#: ../archive.py
+msgid "Notes"
+msgstr "Bijzonderheden"
+
+#: ../archive.py
+msgid "Techniques"
+msgstr "Technieken"
+
+#: ../archive.py
+msgid "Technique"
+msgstr "Techniek"
+
+#: ../archive.py
+msgid "Materials"
+msgstr "Materialen"
+
+#: ../archive.py
+msgid "Material"
+msgstr "Materiaal"
+
+#: ../archive.py
+msgid "Dimensions"
+msgstr "Afmetingen"
+
+#: ../archive.py
+msgid "Dimention"
+msgstr "Afmeting"
+
+#: ../archive.py
+msgid "Value"
+msgstr "Waarde"
+
+#: ../archive.py
+msgid "Unit"
+msgstr "Eenh"
+
+#: ../archive.py
+msgid "Precision"
+msgstr "Precisie"
+
+#: ../archive.py
+msgid "Dimensions (free text)"
+msgstr "Afmeting (vrije tekst)"
+
+#: ../archive.py
+msgid "Frame"
+msgstr "Omlijsting"
+
+#: ../archive.py
+msgid "Detail"
+msgstr "Bijzonderheden"
+
+#: ../archive.py
+msgid "Production & Dating"
+msgstr "Vervaardiging & Datering"
+
+#: ../archive.py
+msgid "Creator"
+msgstr "Vervaardiger"
+
+#: ../archive.py
+msgid "Maker"
+msgstr "Vervaardiger"
+
+#: ../archive.py
+msgid "Qualifier"
+msgstr "Kwalificatie"
+
+#: ../archive.py
+msgid "Role"
+msgstr "Rol"
+
+#: ../archive.py
+msgid "Place"
+msgstr "Plaats"
+
+#: ../archive.py
+msgid "School / style"
+msgstr "School / stijl"
+
+#: ../archive.py
+msgid "Production notes"
+msgstr "Bijzonderheden"
+
+#: ../archive.py
+msgid "Production reason"
+msgstr "Reden vervaardiging"
+
+#: ../archive.py
+msgid "Dating"
+msgstr "Datering"
+
+#: ../archive.py
+msgid "Period"
+msgstr "Periode"
+
+#: ../archive.py
+msgid "Date (early)"
+msgstr "Datering van"
+
+#: ../archive.py
+msgid "Precision"
+msgstr "Precisie"
+
+#: ../archive.py
+msgid "Date (late)"
+msgstr "Tot"
+
+#
+# Condition & Conservation
+#
+
+#: ../archive.py
+msgid "Condition & Conservation"
+msgstr "Toestand & Conservering"
+
+#: ../archive.py
+msgid "Conservation treatment"
+msgstr "Conserveringsprioriteit"
+
+#: ../archive.py
+msgid "Priority"
+msgstr "Prioriteit"
+
+#: ../archive.py
+msgid "Next condition check"
+msgstr "Volgende toets en controle"
+
+#: ../archive.py
+msgid "Date"
+msgstr "Datum"
+
+#: ../archive.py
+msgid "Completeness"
+msgstr "Compleetheid"
+
+#: ../archive.py
+msgid "Checked by"
+msgstr "Controleur"
+
+#: ../archive.py
+msgid "Condition"
+msgstr "Toestand"
+
+#: ../archive.py
+msgid "Condition"
+msgstr "Toestand"
+
+#: ../archive.py
+msgid "Enviromental condition"
+msgstr "Bewaarvorm"
+
+#: ../archive.py
+msgid "Preservation form"
+msgstr "Bewaarvorm"
+
+#: ../archive.py
+msgid "Conservation request"
+msgstr "Conserveringverzoeken"
+
+#: ../archive.py
+msgid "Treatment"
+msgstr "Behandeling"
+
+#: ../archive.py
+msgid "Requester"
+msgstr "Aanvrager"
+
+#: ../archive.py
+msgid "Reason"
+msgstr "Reden"
+
+#: ../archive.py
+msgid "Status"
+msgstr "Status"
+
+#: ../archive.py
+msgid "low"
+msgstr "laag"
+
+#: ../archive.py
+msgid "medium"
+msgstr "normal"
+
+#: ../archive.py
+msgid "high"
+msgstr "hoog"
+
+#: ../archive.py
+msgid "urgent"
+msgstr "urgent"
+
+#
+# Inscriptions and markings
+#
+
+#: ../archive.py
+msgid "Inscriptions and markings"
+msgstr "Opschrijven en merken"
+
+#: ../archive.py
+msgid "Type"
+msgstr "Soort"
+
+#: ../archive.py
+msgid "Position"
+msgstr "Positie"
+
+#: ../archive.py
+msgid "Method"
+msgstr "Methode"
+
+#: ../archive.py
+msgid "Date"
+msgstr "Datum"
+
+#: ../archive.py
+msgid "Role"
+msgstr "Rol"
+
+#: ../archive.py
+msgid "Content"
+msgstr "Inhoud"
+
+#: ../archive.py
+msgid "Description"
+msgstr "Beschrijving"
+
+#: ../archive.py
+msgid "Interpretation"
+msgstr "Interpretatie"
+
+#: ../archive.py
+msgid "Language"
+msgstr "Taal"
+
+#: ../archive.py
+msgid "Notes"
+msgstr "Bijzonderheden"
+
+#
+# Value & Insurance
+#
+
+#: ../archive.py
+msgid "Value & Insurance"
+msgstr "Waarde"
+
+#: ../archive.py
+msgid "Valuation"
+msgstr "Waardebepaling"
+
+#: ../archive.py
+msgid "Value"
+msgstr "Waarde"
+
+#: ../archive.py
+msgid "Curr."
+msgstr "Val."
+
+#: ../archive.py
+msgid "Valuer"
+msgstr "Taxateur"
+
+#: ../archive.py
+msgid "Insurance"
+msgstr "Verzekering"
+
+#: ../archive.py
+msgid "Commercial"
+msgstr "commercieel"
+
+#: ../archive.py
+msgid "Indemnity"
+msgstr "indemniteit"
+
+#: ../archive.py
+msgid "Policy number"
+msgstr "Polisnummer"
+
+#: ../archive.py
+msgid "Insurance company"
+msgstr "Verzekeringsmaatschappij"
+
+#: ../archive.py
+msgid "Confirmation date"
+msgstr "Bevestigingsdatum"
+
+#: ../archive.py
+msgid "Renewal date"
+msgstr "Verloopdatum"
+
+#: ../archive.py
+msgid "Reference"
+msgstr "Referentie"
+
+#: ../archive.py
+msgid "Conditions"
+msgstr "Voorwaarden"
+
+#
+# Acquisition
+#
+
+#: ../archive.py
+msgid "Acquisition"
+msgstr "Verwerving"
+
+#: ../archive.py
+msgid "Accession"
+msgstr "Inschrijving"
+
+#: ../archive.py
+msgid "Accession date"
+msgstr "Inschrijvingsdatum"
+
+#: ../archive.py
+msgid "Acquisition"
+msgstr "Verwerving"
+
+#: ../archive.py
+msgid "Acquisition number"
+msgstr "Verwervingsnummer"
+
+#: ../archive.py
+msgid "Acquisition number"
+msgstr "Verwervingsnummer"
+
+#: ../archive.py
+msgid "Method"
+msgstr "Methode"
+
+#: ../archive.py
+msgid "Rec.no."
+msgstr "Rec.nr."
+
+#: ../archive.py
+msgid "Lot no."
+msgstr "Lotnr."
+
+#: ../archive.py
+msgid "From"
+msgstr "Van"
+
+#: ../archive.py
+msgid "Auction"
+msgstr "Veiling"
+
+#: ../archive.py
+msgid "Place"
+msgstr "Plaats"
+
+#: ../archive.py
+msgid "Reason"
+msgstr "Reden"
+
+#: ../archive.py
+msgid "Conditions"
+msgstr "Voorwaarden"
+
+#: ../archive.py
+msgid "Authorization"
+msgstr "Autorisatie"
+
+#: ../archive.py
+msgid "Authorizer"
+msgstr "Autorisator"
+
+#: ../archive.py
+msgid "Costs"
+msgstr "Kosten"
+
+#: ../archive.py
+msgid "Offer price"
+msgstr "Vraagprijs"
+
+#: ../archive.py
+msgid "Curr."
+msgstr "Valuta"
+
+#: ../archive.py
+msgid "Purchase price"
+msgstr "Aankoopprijs"
+
+#: ../archive.py
+msgid "Funding"
+msgstr "Financiering"
+
+#: ../archive.py
+msgid "Amount"
+msgstr "Bedrag"
+
+#: ../archive.py
+msgid "Source"
+msgstr "Bron"
+
+#: ../archive.py
+msgid "Provisos"
+msgstr "Bepalingen"
+
+#: ../archive.py
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: ../archive.py
+msgid "Reference"
+msgstr "Referentie"
+
+#
+# Disposal
+#
+
+#: ../archive.py
+msgid "Disposal"
+msgstr "Afstoting"
+
+#: ../archive.py
+msgid "Deaccession"
+msgstr "Uitschrijving"
+
+#: ../archive.py
+msgid "Deaccession date"
+msgstr "Uitschrijvingsdatum"
+
+#: ../archive.py
+msgid "New object number"
+msgstr "Nieuw objectnummer"
+
+#: ../archive.py
+msgid "Disposal"
+msgstr "Afstoting"
+
+#: ../archive.py
+msgid "Disposal number"
+msgstr "Afstotingsnummer"
+
+#: ../archive.py
+msgid "Proposed recipient"
+msgstr "Aspirant-ontvanger"
+
+#: ../archive.py
+msgid "Recipient"
+msgstr "Ontvanger"
+
+#: ../archive.py
+msgid "Reason"
+msgstr "Reden"
+
+#: ../archive.py
+msgid "Provisos"
+msgstr "Voorwaarden"
+
+#: ../archive.py
+msgid "Finance"
+msgstr "Financiën"
+
+#: ../archive.py
+msgid "Disposal price"
+msgstr "Verkoopprijs"
+
+#
+# Ownership history
+#
+
+#: ../archive.py
+msgid "Ownership history"
+msgstr "Eigendomsgeschiedenis"
+
+#: ../archive.py
+msgid "Ownership"
+msgstr "Eigendom"
+
+#: ../archive.py
+msgid "Current Owner"
+msgstr "Huidige eigenaar"
+
+#: ../archive.py
+msgid "History"
+msgstr "Geschiedenis"
+
+#: ../archive.py
+msgid "Owner"
+msgstr "Eigenaar"
+
+#: ../archive.py
+msgid "From"
+msgstr "Vanaf"
+
+#: ../archive.py
+msgid "Until"
+msgstr "Tot"
+
+#: ../archive.py
+msgid "Exchange method"
+msgstr "Verwervingsmethode"
+
+#: ../archive.py
+msgid "Acquired from"
+msgstr "Verworven van"
+
+#: ../archive.py
+msgid "Auction"
+msgstr "Veiling"
+
+#: ../archive.py
+msgid "Price"
+msgstr "Prijs"
+
+#: ../archive.py
+msgid "Ownership category"
+msgstr "Eigendomscategorie"
+
+#: ../archive.py
+msgid "Access"
+msgstr "Toegankelijkheid"
+
+#
+# Location
+#
+
+#: ../archive.py
+msgid "Location"
+msgstr "Standplaats"
+
+#: ../archive.py
+msgid "Normal location"
+msgstr "Vaste standplaats"
+
+#: ../archive.py
+msgid "Current location"
+msgstr "Huidige locatie"
+
+#: ../archive.py
+msgid "Start date"
+msgstr "Begindatum"
+
+#: ../archive.py
+msgid "End date"
+msgstr "Einddatum"
+
+#: ../archive.py
+msgid "Location type"
+msgstr "Soort standplaats"
+
+#: ../archive.py
+msgid "Location"
+msgstr "Standplaats"
+
+#: ../archive.py
+msgid "Fitness"
+msgstr "Geschiktheid"
+
+#: ../archive.py
+msgid "Location checks"
+msgstr "Standplaatscontroles"
+
+#
+# Notes
+#
+
+#: ../archive.py
+msgid "Free Fields"
+msgstr "Vrij Velden"
+
+#: ../archive.py
+msgid "Confidential"
+msgstr "Vertrouwelijk"
+
+#
+# Labels
+#
+
+#: ../archive.py
+msgid "Labels"
+msgstr "Etiketten"
+
+# Identification
+
+#: ../archive.py
+msgid "Translated title"
+msgstr "Vertaalde titel"
+
+#: ../archive.py
+msgid "Describer"
+msgstr "Beschrijver"
+
+#: ../archive.py
+msgid "Taxonomy"
+msgstr "Taxonomie"
+
+#: ../archive.py
+msgid "Taxonomy rank"
+msgstr "Taxonomie rang"
+
+#: ../archive.py
+msgid "Scient. name"
+msgstr "Wet. naam"
+
+#: ../archive.py
+msgid "Common name"
+msgstr "Populaire naam"
+
+#: ../archive.py
+msgid "Determiner"
+msgstr "Determinator"
+
+#: ../archive.py
+msgid "Object status"
+msgstr "Objectstatus"
+
+#: ../archive.py
+msgid "Title and description"
+msgstr "Titel en beschrijving"
+
+
+#: ../archive.py
+msgid "Title and description"
+msgstr "Titel en beschrijving"
+
+#
+# Iconography
+#
+
+#: ../archive.py
+msgid "General theme"
+msgstr "Hoofdmotief algemeen"
+
+#: ../archive.py
+msgid "Specific theme"
+msgstr "Hoofdmotief specifiek"
+
+#: ../archive.py
+msgid "Classification theme"
+msgstr "Classificatieschema"
+
+#: ../archive.py
+msgid "Code"
+msgstr "Code"
+
+#: ../archive.py
+msgid "General search criteria"
+msgstr "Algemene onderwerpsontsluiting"
+
+#: ../archive.py
+msgid "Content description"
+msgstr "Inhoudsbeschrijving"
+
+#: ../archive.py
+msgid "Content person/institution"
+msgstr "Afgebeelde persoon/instelling"
+
+#: ../archive.py
+msgid "Name type"
+msgstr "Soort naam"
+
+#: ../archive.py
+msgid "Content subject"
+msgstr "Afgebeeld onderwerp"
+
+#: ../archive.py
+msgid "Subject type"
+msgstr "Soort onderwerp"
+
+#: ../archive.py
+msgid "Subject"
+msgstr "Naam"
+
+#: ../archive.py
+msgid "Taxonomic rank"
+msgstr "Taxonomische rang"
+
+#: ../archive.py
+msgid "Scientific name"
+msgstr "Wet. Naam"
+
+#: ../archive.py
+msgid "Proper name"
+msgstr "Eigennaam"
+
+#: ../archive.py
+msgid "Identifier"
+msgstr "Identifier"
+
+#: ../archive.py
+msgid "Content period/date"
+msgstr "Content period/date"
+
+#: ../archive.py
+msgid "Iconography source"
+msgstr "Iconografisch bron"
+
+#: ../archive.py
+msgid "Source general"
+msgstr "Bron algemeen"
+
+#: ../archive.py
+msgid "Source specific"
+msgstr "Bron specifiek"
+
+#: ../archive.py
+msgid "Source object number"
+msgstr "Bron objectnummer"
+
+#: ../archive.py
+msgid "Iconography"
+msgstr "Iconografie"
+
+#: ../archive.py
+msgid "Content period/date"
+msgstr "Afgebeelde periode/datum"
+
+#
+# Inscriptions
+#
+
+#: ../archive.py
+msgid "Script"
+msgstr "Schrijt"
+
+#: ../archive.py
+msgid "Transliteration"
+msgstr "Transliteratie"
+
+
+#
+# Associations
+#
+
+#: ../archive.py
+msgid "Associated person/institution"
+msgstr "Geassocieerde persoon/instelling"
+
+#: ../archive.py
+msgid "Association"
+msgstr "Associatie"
+
+#: ../archive.py
+msgid "Associated subject"
+msgstr "Geassocieerd onderwerp"
+
+#: ../archive.py
+msgid "Associated period"
+msgstr "Geassocieerde periode"
+
+#: ../archive.py
+msgid "Associations"
+msgstr "Associaties"
+
+#
+# Numbers/relationships
+#
+
+#: ../archive.py
+msgid "Numbers/relationships"
+msgstr "Nummers/relaties"
+
+#: ../archive.py
+msgid "Numbers"
+msgstr "Nummers"
+
+#: ../archive.py
+msgid "Institution"
+msgstr "Instelling"
+
+#: ../archive.py
+msgid "Number"
+msgstr "Nummer"
+
+#: ../archive.py
+msgid "Relationships with other objects"
+msgstr "Relaties met andere objecten"
+
+#: ../archive.py
+msgid "Part of"
+msgstr "Is deel van"
+
+#: ../archive.py
+msgid "Parts"
+msgstr "Heeft als deel"
+
+#: ../archive.py
+msgid "Related object"
+msgstr "Gerelateerd object"
+
+#: ../archive.py
+msgid "Digital references"
+msgstr "Digitale referenties"
+
+#: ../archive.py
+msgid "Title"
+msgstr "Titel"
+
+#: ../archive.py
+msgid "Page mark"
+msgstr "Pagina-aanduiding"
+
+#: ../archive.py
+msgid "Author"
+msgstr "Auteur"
+
+#: ../archive.py
+msgid "Shelf mark"
+msgstr "Signatuur"
+
+#
+# Documentation (free) / archive
+#
+
+#: ../archive.py
+msgid "Documentation (free) / archive"
+msgstr "Documentatie (vrij) / archief"
+
+#: ../archive.py
+msgid "Documentation (free text)"
+msgstr "Documentatie (vrij tekst)"
+
+#: ../archive.py
+msgid "Archive"
+msgstr "Archief"
+
+#: ../archive.py
+msgid "Archive number"
+msgstr "Archiefnummer"
+
+
+#
+# Reproductions
+#
+
+#: ../archive.py
+msgid "Reproductions"
+msgstr "Reproducties"
+
+#: ../archive.py
+msgid "Reproduction"
+msgstr "Reproductie"
+
+#: ../archive.py
+msgid "Reference"
+msgstr "Referentie"
+
+#: ../archive.py
+msgid "Format"
+msgstr "Formaat"
+
+#: ../archive.py
+msgid "Identifier (URL)"
+msgstr "Identifier (URL)"
+
+#
+# Recommendations/requirements
+#
+
+#: ../archive.py
+msgid "Recommendations/requirements"
+msgstr "Aanbevelingen / vereisten"
+
+#: ../archive.py
+msgid "Recommendations"
+msgstr "Aanbevelingen"
+
+#: ../archive.py
+msgid "Display"
+msgstr "Tentoonstelling"
+
+#: ../archive.py
+msgid "Enviroment"
+msgstr "Omgeving"
+
+#: ../archive.py
+msgid "Handling"
+msgstr "Behandeling"
+
+#: ../archive.py
+msgid "Packing"
+msgstr "Verpakking"
+
+#: ../archive.py
+msgid "Security"
+msgstr "Veiligheid"
+
+#: ../archive.py
+msgid "Security"
+msgstr "Veiligheid"
+
+#: ../archive.py
+msgid "Storage"
+msgstr "Berging"
+
+#: ../archive.py
+msgid "Legal / license requirements"
+msgstr "Wettelijke eisen / vergunningen"
+
+#: ../archive.py
+msgid "Requirements"
+msgstr "Eisen"
+
+#: ../archive.py
+msgid "Requirements held"
+msgstr "Vereisten in Bezit"
+
+#: ../archive.py
+msgid "Current From"
+msgstr "Geldig van"
+
+#
+# Field collection
+#
+
+#: ../archive.py
+msgid "Field Collection"
+msgstr "Vondstomstandigheden"
+
+#: ../archive.py
+msgid "Field coll. number"
+msgstr "Vondstnummer"
+
+#: ../archive.py
+msgid "Collector"
+msgstr "Vinder"
+
+#: ../archive.py
+msgid "Event"
+msgstr "Gebeurtenis"
+
+#: ../archive.py
+msgid "Date (early)"
+msgstr "Begindatum"
+
+
+#: ../archive.py
+msgid "Date (late)"
+msgstr "Einddatum"
+
+#: ../archive.py
+msgid "Method"
+msgstr "Methode"
+
+#: ../archive.py
+msgid "Place"
+msgstr "Vindplaats"
+
+#: ../archive.py
+msgid "Place code"
+msgstr "Code vindplaats"
+
+#: ../archive.py
+msgid "Place feature"
+msgstr "Kenmerk vindplaats"
+
+#: ../archive.py
+msgid "Co-ordinates field collection place"
+msgstr "Coördnaten vindplaats"
+
+#: ../archive.py
+msgid "Grid type"
+msgstr "Coördinatenstelsel"
+
+#: ../archive.py
+msgid "X co-ordinate"
+msgstr "X-coördnaat"
+
+#: ../archive.py
+msgid "Addition"
+msgstr "Toevoeging"
+
+#: ../archive.py
+msgid "Y co-ordinate"
+msgstr "Y-coördnaat"
+
+#: ../archive.py
+msgid "Habitat and stratigraphy"
+msgstr "Milieu en stratigrafie"
+
+#: ../archive.py
+msgid "Habitat"
+msgstr "Landschap/milieu"
+
+#: ../archive.py
+msgid "Stratigraphy"
+msgstr "Stratigrafie"
+
+#: ../archive.py
+msgid "Strat. type"
+msgstr "Soort strat."
+
+#
+# treatments
+#
+
+#: ../archive.py
+msgid "treatments"
+msgstr "Tentoonstellingen"
+
+#: ../archive.py
+msgid "treatment"
+msgstr "Tentoonstelling"
+
+
+#: ../archive.py
+msgid "treatment name"
+msgstr "Tentoonstellingsnaam"
+
+#: ../archive.py
+msgid "to"
+msgstr "t/m"
+
+#: ../archive.py
+msgid "Venue"
+msgstr "Locatie"
+
+#: ../archive.py
+msgid "Cat. no. object"
+msgstr "Cat.nr. object"
+
+#
+# Loans
+#
+
+#: ../archive.py
+msgid "Loans"
+msgstr "Bruiklenen"
+
+#: ../archive.py
+msgid "Incoming loans"
+msgstr "Inkomende bruiklenen"
+
+#: ../archive.py
+msgid "Outgoing loans"
+msgstr "Uitgaande bruiklenen"
+
+#: ../archive.py
+msgid "Loan number"
+msgstr "Bruikleennummer"
+
+#: ../archive.py
+msgid "Lender"
+msgstr "Bruikleengever"
+
+#: ../archive.py
+msgid "Requester"
+msgstr "Aanvrager"
+
+#: ../archive.py
+msgid "Request reason"
+msgstr "Reden aanvraag"
+
+#: ../archive.py
+msgid "Request period"
+msgstr "Aaanvraagperiode"
+
+#: ../archive.py
+msgid "Contract period"
+msgstr "Contractperiode"
+
+#: ../archive.py
+msgid "Contact"
+msgstr "Contactpersoon"
+
+#
+# treatments details
+#
+
+#: ../archive.py
+msgid "treatment"
+msgstr "Tentoonstelling"
+
+#: ../archive.py
+msgid "Alt. Title"
+msgstr "Alt. Titel"
+
+#: ../archive.py
+msgid "Organizing institutions"
+msgstr "Organiserende instelling"
+
+#: ../archive.py
+msgid "Name"
+msgstr "Naam"
+
+#: ../archive.py
+msgid "Address"
+msgstr "Adres"
+
+#: ../archive.py
+msgid "Country"
+msgstr "Land"
+
+#: ../archive.py
+msgid "Telephone"
+msgstr "Telefoon"
+
+#: ../archive.py
+msgid "treatments details"
+msgstr "Tentoonstelling"
+
+
+#: ../archive.py
+msgid "label_event_start"
+msgstr "Aanvang"
+
+#: ../archive.py
+msgid "label_event_end"
+msgstr "Einde"
+
+#: ../archive.py
+msgid "Article"
+msgstr "Lidword"
+
+#: ../archive.py
+msgid "Linked Objects"
+msgstr "Gekoppelde objecten"
+
+#: ../archive.py
+msgid "Itinerary"
+msgstr "Agenda"
+
+
+
+#
+# Conservation treatment
+# 
+
+
+#: ../archive.py
+msgid "Treatment number"
+msgstr "Behandelingsnummer"
+
+#: ../archive.py
+msgid "Treatment type"
+msgstr "Soort Behandeling"
+
+#: ../archive.py
+msgid "Reversible"
+msgstr "Reversibel"
+
+#: ../archive.py
+msgid "Reversible"
+msgstr "Reversibel"
+
+#: ../archive.py
+msgid "conversation"
+msgstr "conservering"
+
+#: ../archive.py
+msgid "restauration"
+msgstr "restauratie"
+
+#: ../archive.py
+msgid "Treatment method"
+msgstr "Behandelmethode"
+
+#: ../archive.py
+msgid "Conservator"
+msgstr "Uitvoerder"
+
+#: ../archive.py
+msgid "Material"
+msgstr "Materiall"
+
+#: ../archive.py
+msgid "Recall date"
+msgstr "Rappeldatum"
+
+#: ../archive.py
+msgid "Progress"
+msgstr "Voortgang"
+
+#: ../archive.py
+msgid "Treatment"
+msgstr "Behandeling"
+
+#: ../archive.py
+msgid "Condition description"
+msgstr "Toestandsbeschrijving"
+
+#: ../archive.py
+msgid "Treatment plan"
+msgstr "Behandelplan"
+
+#: ../archive.py
+msgid "Treatment summary"
+msgstr "Behandelingsbeschrijving"
+
+#: ../archive.py
+msgid "(Digital) references"
+msgstr "(Digitale) documentatie"
+
+
+#: ../archive.py
+msgid "Archive details"
+msgstr "basisgegevens archiefstukken"
+
+#: ../archive.py
+msgid "Archive number"
+msgstr "Archiefstuknummer"
+
+#: ../archive.py
+msgid "Preliminary number"
+msgstr "Voorlopig numer"
+
+#: ../archive.py
+msgid "Photo number"
+msgstr "Fotonummer"
+
+#: ../archive.py
+msgid "Class"
+msgstr "Rubirek"
+
+#: ../archive.py
+msgid "Editorial form"
+msgstr "Redactionale vorm"
+
+#: ../archive.py
+msgid "Physical form"
+msgstr "Uiterlijke vorm"
+
+#: ../archive.py
+msgid "Development phase"
+msgstr "Onwikkelingsstadium"
+
+#: ../archive.py
+msgid "Sender"
+msgstr "Afzender"
+
+#: ../archive.py
+msgid "Receiver"
+msgstr "Ontvanger"
+
+#: ../archive.py
+msgid "Date (exact)"
+msgstr "Datum (exact)"
+
+
+#: ../archive.py
+msgid "Date (free)"
+msgstr "Datum (vrij)"
+
+
+#: ../archive.py
+msgid "Content"
+msgstr "Inhoud"
+
+#: ../archive.py
+msgid "Keyword"
+msgstr "Trefwoord"
+
+#: ../archive.py
+msgid "Notes"
+msgstr "Bijzonderheden"
+
+#: ../archive.py
+msgid "Archive"
+msgstr "Archiefstukken"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

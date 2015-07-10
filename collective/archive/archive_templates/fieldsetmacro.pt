@@ -1,0 +1,85 @@
+<!-- Secondary fieldsets -->
+  
+<div metal:define-macro="test">
+
+  <tal:archive_details tal:condition='python: fieldset_text == "archive_details"'
+    tal:define='widgets group/widgets'>
+    <!-- Treatment details -->
+    <div class="row no-padding">
+        <h2 class="page-header" i18n:translate="">Archive details</h2>
+
+        <div class="form-horizontal">
+          <tal:widget tal:replace="structure widgets/archiveDetails_archiveDetails_archiveNumber/@@ploneform-render-widget"/>
+          <tal:widget tal:replace="structure widgets/archiveDetails_archiveDetails_preliminaryNumber/@@ploneform-render-widget"/>
+          <tal:widget tal:replace="structure widgets/archiveDetails_archiveDetails_photoNumber/@@ploneform-render-widget"/>
+        </div>
+
+        <div class="form-horizontal gridfield">
+          <tal:widget tal:replace="structure widgets/archiveDetails_archiveDetails_class/@@ploneform-render-widget"/>
+        </div>
+        
+        <div class="form-horizontal gridfield">
+          <tal:widget tal:replace="structure widgets/archiveDetails_archiveDetails_editorialForm/@@ploneform-render-widget"/>
+        </div>
+
+        <div class="form-horizontal">
+          <tal:widget tal:replace="structure widgets/archiveDetails_archiveDetails_physicalForm/@@ploneform-render-widget"/>
+        </div>
+
+        <div class="form-horizontal gridfield">
+          <tal:widget tal:replace="structure widgets/archiveDetails_archiveDetails_developmentPhase/@@ploneform-render-widget"/>
+        </div>
+
+       
+
+        <div class="form-horizontal gridfield">
+          <tal:widget tal:replace="structure widgets/archiveDetails_archiveDetails_sender/@@ploneform-render-widget"/>
+        </div>
+
+         <div class="form-horizontal">
+          <tal:widget tal:replace="structure widgets/archiveDetails_archiveDetails_receiver/@@ploneform-render-widget"/>
+        </div>
+
+        <div class="form-horizontal gridfield">
+          <tal:widget tal:replace="structure widgets/archiveDetails_archiveDetails_dateExact/@@ploneform-render-widget"/>
+        </div>
+
+        <div class="form-horizontal">
+          <tal:widget tal:replace="structure widgets/archiveDetails_archiveDetails_dateFree/@@ploneform-render-widget"/>
+        </div>
+
+        <div class="form-horizontal gridfield">
+          <tal:widget tal:replace="structure widgets/archiveDetails_archiveDetails_content/@@ploneform-render-widget"/>
+        </div>
+
+        <div class="form-horizontal gridfield">
+          <tal:widget tal:replace="structure widgets/archiveDetails_archiveDetails_keyword/@@ploneform-render-widget"/>
+        </div>
+
+        <div class="form-horizontal gridfield">
+          <tal:widget tal:replace="structure widgets/archiveDetails_archiveDetails_notes/@@ploneform-render-widget"/>
+        </div>
+
+    </div>
+  </tal:archive_details>
+
+  <tal:linked_objects tal:condition='python: fieldset_text == "linked_objects"'
+    tal:define='widgets group/widgets'>
+    <!-- Linked Objects -->
+    <div class="row no-padding">
+        <h2 class="page-header" i18n:translate="">Linked Objects</h2>
+        
+        <div class="form-horizontal gridfield">
+          <tal:widget tal:replace="structure widgets/linkedObjects_relatedObjects/@@ploneform-render-widget"/>
+        </div>
+
+        <h2 class="page-header" i18n:translate="">Linked Objects</h2>
+        <div class="form-horizontal gridfield table-responsive">
+          <tal:widget tal:replace="structure widgets/linkedObjects_linkedObjects/@@ploneform-render-widget"/>
+        </div>
+    </div>
+  </tal:linked_objects>
+
+
+  
+</div>
